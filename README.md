@@ -5,4 +5,4 @@ Just 3 components needed:
 
 Arduino Uno / Nano / Pro Mini
 OLED display 128x64 SSD1309
-A button (or two, if you want to duck!)
+A button (or two, if you want to duck!).
